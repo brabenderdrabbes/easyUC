@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "aktienobserver",
+	"version": "${version}",
+	"name": "AktienObserver",
+	"description": "Observes stock prices from the server stock app and saves them locally.",
+	"authors": [
+		"ms-ph"
+	],
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"de.msph.aktienobserver.AktienObserverClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "1.21.10",
+		"fabric-api": ">=0.138.4+1.21.10",
+		"java": ">=21"
+	}
+}

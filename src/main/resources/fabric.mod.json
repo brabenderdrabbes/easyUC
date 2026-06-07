@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "easyuc",
+	"version": "${version}",
+	"name": "easyUC",
+	"description": "HUD and shortcut tools for Fabric/NoRisk.",
+	"authors": [
+		"ms-ph"
+	],
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"de.msph.noriskpotionhud.NoRiskPotionHudClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "1.21.10",
+		"fabric-api": ">=0.138.4+1.21.10",
+		"java": ">=21"
+	}
+}
