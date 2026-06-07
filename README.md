@@ -1,10 +1,7 @@
 # easyUC
 
-Client-only Fabric mods for Minecraft 1.21.10 / NoRisk Client.
+FabricMod that improves the playing experience of UnicaCity
 
-## Projects
-
-- `easyUC` in the root project: potion effect HUD, mine PayDay counter, `/gd`, `/vm`, `/lb`, and `/raus`.
 
 ## Build
 
