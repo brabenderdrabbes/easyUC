@@ -5,7 +5,7 @@
 	"name": "easyUC",
 	"description": "HUD and shortcut tools for Fabric/NoRisk.",
 	"authors": [
-		"ms-ph"
+		"drabbest"
 	],
 	"license": "MIT",
 	"environment": "client",
